@@ -7,6 +7,8 @@ fixed, so we fix them, test them on real hardware, and send every fix upstream t
 [Omarchy](https://github.com/basecamp/omarchy), the kernel, NVIDIA and Hyprland. The goal is
 to make ourselves unnecessary.
 
+**[omarchy-asus.github.io](https://omarchy-asus.github.io)**: what you get, and the numbers.
+
 ### Repos
 
 - **[omarchy-asus](https://github.com/omarchy-asus/omarchy-asus)**: the hub. A signed pacman
