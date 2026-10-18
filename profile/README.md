@@ -12,9 +12,9 @@ to make ourselves unnecessary.
 - **[omarchy-asus](https://github.com/omarchy-asus/omarchy-asus)**: the hub. A signed pacman
   repo of patched builds, the recipes and tooling behind it, and the issue tracker for all of
   it.
-- **omarchy** (coming soon): a fork of basecamp/omarchy where ASUS fixes are written in
+- **[omarchy](https://github.com/omarchy-asus/omarchy)**: a fork of basecamp/omarchy where ASUS fixes are written in
   Omarchy's own shape and sent upstream as pull requests.
-- **omarchy-pkgs** (coming soon): a fork of omacom/omarchy-pkgs for upstream package pull
+- **[omarchy-pkgs](https://github.com/omarchy-asus/omarchy-pkgs)**: a fork of omacom/omarchy-pkgs for upstream package pull
   requests.
 
 ### Status
