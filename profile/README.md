@@ -27,8 +27,4 @@ Have an ASUS laptop? [Open an issue](https://github.com/omarchy-asus/omarchy-asu
 with your model and what's broken. Fixes, testing and ideas are all welcome. Start with
 [CONTRIBUTING](https://github.com/omarchy-asus/omarchy-asus/blob/main/CONTRIBUTING.md).
 
-**Rule 1:** Help make the software better.
-
-**Rule 2:** Don't be a dick.
-
 <sub>An unofficial community project, not affiliated with Basecamp, Omacom or ASUS. Maintained by [@rdoupe](https://github.com/rdoupe).</sub>
