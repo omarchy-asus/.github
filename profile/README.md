@@ -7,14 +7,16 @@ fixed, so we fix them, test them on real hardware, and send every fix upstream t
 [Omarchy](https://github.com/basecamp/omarchy), the kernel, NVIDIA and Hyprland. The goal is
 to make ourselves unnecessary.
 
+**[omarchy-asus.github.io](https://omarchy-asus.github.io)**: what you get, and the numbers.
+
 ### Repos
 
 - **[omarchy-asus](https://github.com/omarchy-asus/omarchy-asus)**: the hub. A signed pacman
   repo of patched builds, the recipes and tooling behind it, and the issue tracker for all of
   it.
-- **omarchy** (coming soon): a fork of basecamp/omarchy where ASUS fixes are written in
+- **[omarchy](https://github.com/omarchy-asus/omarchy)**: a fork of basecamp/omarchy where ASUS fixes are written in
   Omarchy's own shape and sent upstream as pull requests.
-- **omarchy-pkgs** (coming soon): a fork of omacom/omarchy-pkgs for upstream package pull
+- **[omarchy-pkgs](https://github.com/omarchy-asus/omarchy-pkgs)**: a fork of omacom/omarchy-pkgs for upstream package pull
   requests.
 
 ### Status
